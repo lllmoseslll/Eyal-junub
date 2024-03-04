@@ -1,0 +1,29 @@
+.gradient-container {
+    background: linear-gradient(to right, yellow, black);
+    
+
+  }
+
+  body{
+    background-color: black;
+  }
+
+  .hero-section {
+    background-image: url('https://images.pexels.com/photos/7652144/pexels-photo-7652144.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'); /* Replace 'your-image.jpg' with your actual image file */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    height: 100%;
+  }
+ 
+
+  h1{
+    color: gold;
+    font-weight: bold;
+  }
+
+  .container{
+    margin-top: 20%;
+  }
